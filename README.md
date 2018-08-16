@@ -16,7 +16,6 @@ button:hover {
     transform: scale(1.1);
 }
 </style>    
-<title>Write a Review</title>
 </head>
   <main>
 <body>

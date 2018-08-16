@@ -1,5 +1,8 @@
 # Domes_Review_Form
 Client Review Submission Form
+
+<html>
+<head>
 <style>
 body {
     background-color: black;
@@ -12,10 +15,7 @@ h1 {
 button:hover {
     transform: scale(1.1);
 }
-</style>
-
-<html>
-<head>
+</style>    
 <title>Write a Review</title>
 </head>
   <main>

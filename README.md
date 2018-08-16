@@ -21,7 +21,7 @@ button:hover {
 <body>
   <h1><strong>Write a Review</h1>
   <p>Thank you for your business! Would you recommend us to your family and friends?</p>
-<a href="http://google.com" target="_blank">
+<a href="https://www.facebook.com/DomesAV/reviews/">
 <button>Facebook</button>
 </a>
 <br>

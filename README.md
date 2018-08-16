@@ -11,7 +11,6 @@ body {
 h1 {
   text-align: justify;
 }
-
 button:hover {
     transform: scale(1.1);
 }
@@ -20,6 +19,7 @@ button:hover {
   <main>
 <body>
   <h1><strong>Write a Review</h1>
+<form>
   <p>Thank you for your business! Would you recommend us to your family and friends?</p>
 <a href="https://www.facebook.com/DomesAV/reviews/">
 <button>Facebook</button>
@@ -35,3 +35,4 @@ button:hover {
 <br>
 <input type="text" placeholder="more details">
 </form>
+</html>

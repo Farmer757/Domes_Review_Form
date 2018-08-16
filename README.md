@@ -1,6 +1,6 @@
 # Domes_Review_Form
 Client Review Submission Form
-
+<!DOCTYPE html>
 <html>
 <head>
 <style>

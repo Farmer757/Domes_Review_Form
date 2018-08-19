@@ -3,7 +3,19 @@ Client Review Submission Form
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+h1 {
+  text-align: justify;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+</style>
 </head>
   <main>
 <body>

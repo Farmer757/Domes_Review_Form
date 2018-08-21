@@ -16,7 +16,6 @@ button:hover {
 }
 </style>    
 </head>
-  <main>
 <body>
   <h1><strong>Write a Review</h1>
 <form>
@@ -34,5 +33,6 @@ button:hover {
 <br>
 <br>
 <input type="text" placeholder="more details">
-</form>
+    </form>
+    </body>
 </html>
